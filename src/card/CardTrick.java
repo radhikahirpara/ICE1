@@ -30,7 +30,7 @@ public class CardTrick {
             c.setSuit(Card.SUITS[random.nextInt(4)]);
             magicHand[i] = c;
         }
-
+         //12
         // Ask the user for a card and search the magic hand
         System.out.print("Enter a card value (1-13): ");
         int userValue = scanner.nextInt();
