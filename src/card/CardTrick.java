@@ -52,7 +52,7 @@ public class CardTrick {
         } else {
             System.out.println("Sorry, your card is not in the magic hand.");
         }
-
+        //123
         // Add a hardcoded "luck card"
         Card luckCard = new Card(2, "Clubs");
         System.out.println("There is also a luck card in the magic hand: " + luckCard);
